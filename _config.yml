@@ -5,4 +5,4 @@ plugins:
 minima:
   skin: dark
 titles_from_headings:
-  enabled:     false
+  enabled: false
